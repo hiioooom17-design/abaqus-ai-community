@@ -1,0 +1,29 @@
+test_new_config_new_plugin_undo_removes_only_ours (test_manager.ManagerTests.test_new_config_new_plugin_undo_removes_only_ours) ... ok
+test_preserves_unrelated_servers_and_settings (test_manager.ManagerTests.test_preserves_unrelated_servers_and_settings) ... ok
+test_refuses_bad_mcp_servers_type (test_manager.ManagerTests.test_refuses_bad_mcp_servers_type) ... ok
+test_refuses_invalid_json_without_writing_plugin (test_manager.ManagerTests.test_refuses_invalid_json_without_writing_plugin) ... ok
+test_reinstall_undo_is_last_in_first_out (test_manager.ManagerTests.test_reinstall_undo_is_last_in_first_out) ... ok
+test_undo_refuses_if_config_changed_after_install (test_manager.ManagerTests.test_undo_refuses_if_config_changed_after_install) ... ok
+test_undo_refuses_if_plugin_changed_after_install (test_manager.ManagerTests.test_undo_refuses_if_plugin_changed_after_install) ... ok
+test_undo_restores_exact_bytes (test_manager.ManagerTests.test_undo_restores_exact_bytes) ... ok
+test_authenticated_ping (test_security.SecurityTests.test_authenticated_ping) ... ok
+test_edition_execution_policy (test_security.SecurityTests.test_edition_execution_policy) ... ok
+test_invalid_id (test_security.SecurityTests.test_invalid_id) ... ok
+test_invalid_params (test_security.SecurityTests.test_invalid_params) ... ok
+test_manifest (test_security.SecurityTests.test_manifest) ... ok
+test_missing_token (test_security.SecurityTests.test_missing_token) ... ok
+test_nan_timeout (test_security.SecurityTests.test_nan_timeout) ... ok
+test_non_loopback_client (test_security.SecurityTests.test_non_loopback_client) ... ok
+test_nonascii_token (test_security.SecurityTests.test_nonascii_token) ... ok
+test_uninstalled_client (test_security.SecurityTests.test_uninstalled_client) ... ok
+test_uninstalled_server (test_security.SecurityTests.test_uninstalled_server) ... ok
+test_unknown_method (test_security.SecurityTests.test_unknown_method) ... ok
+test_wrong_token (test_security.SecurityTests.test_wrong_token) ... ok
+
+----------------------------------------------------------------------
+Ran 21 tests in 0.181s
+
+OK
+
+Additional static check: all Python sources parsed successfully. MCP tool definitions: ping
+Scope: synthetic installer tests and real localhost TCP sockets with mocked Abaqus GUI/kernel. Actual Abaqus, Claude MCP handshake, Windows PowerShell and dependency install NOT tested.

@@ -1,0 +1,14 @@
+{
+  "payload/app/LICENSE": "3b3d4258849027b0effabf82a02d363c239edc73165e148cee5b03b7b054fcb3",
+  "payload/app/README.md": "6e4ce9a4bd6ec038c78ceb5523056401aaafd3bf40ea521d896f140a9a640d41",
+  "payload/app/README_UPSTREAM.md": "4a6da0e8a8422f43e29726cdac966be7a0f3d8817f9e67fe09c4fa75adaf20da",
+  "payload/app/abaqus_mcp_bridge/__init__.py": "9ef5cd50c53d0f6097d5386a899b0774abdf1f1fb69c0104298e06f29ed628cb",
+  "payload/app/abaqus_mcp_bridge/__main__.py": "a57501b07b4a54c7a3041cc5292950a693df2124fa6eb9b542f88a2cc0a18c8c",
+  "payload/app/abaqus_mcp_bridge/cli.py": "c48debbdd023562042a983fcdffcd1226256101ffdb47528356ccd3e7b561736",
+  "payload/app/abaqus_mcp_bridge/client.py": "71d242092112e0b8c33412c6bfbaa5631de9ec31f5eac2cb5170417ee81a5b3a",
+  "payload/app/abaqus_mcp_bridge/gui_plugin.py": "f82b3170c0eeca73f6afc953f2e22c0bf238b616e34a17841a595eb3f923a819",
+  "payload/app/abaqus_mcp_bridge/protocol.py": "b77b5c6fc9bd025fc7c5d16d091d47d93cb8f2f984389ea4d0e321f6d84bfb18",
+  "payload/app/abaqus_mcp_bridge/server.py": "040a5caf695a4cbeed2f206d337e5c2dd9a7a7b2d4cadcb749e1f4d44cfb3163",
+  "payload/app/pyproject.toml": "deb15e31e552405231f157535b136ab6c822f21843da36fcc85a3c63631c1ca3",
+  "payload/app/uv.lock": "2c84418eedef335ce4051b8b4b95251c6c7d4e61277bd1230a9f8a392df3c72c"
+}

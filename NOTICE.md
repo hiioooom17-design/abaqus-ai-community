@@ -1,0 +1,1 @@
+Upstream: Abaqus-Control-MCP 2.0.0 (MIT), copyright 2026 Abaqus Control MCP Contributors. Original MIT terms are preserved. Packaging and maintenance contact: Mohamed Amr Software, hiioooom881@gmail.com. No claim of ownership of third-party code.

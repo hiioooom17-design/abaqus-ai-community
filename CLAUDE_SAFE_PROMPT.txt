@@ -1,0 +1,1 @@
+Use the local Abaqus bridge. Start with ping. Read-only discovery only; do not attempt arbitrary execution.
